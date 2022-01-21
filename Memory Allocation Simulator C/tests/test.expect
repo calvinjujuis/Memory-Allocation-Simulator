@@ -1,0 +1,6 @@
+active: none
+available: 0 [100]
+active: 0 [25], 75 [25]
+available: 25 [50]
+destroy: fail (did not free all allocations)
+ERROR: did not free all allocations

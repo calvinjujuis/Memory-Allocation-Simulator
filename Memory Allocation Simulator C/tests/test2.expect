@@ -1,0 +1,8 @@
+active: none
+available: 0 [100]
+available: 25 [75]
+active: 0 [25], 25 [25]
+available: 50 [50]
+active: 0 [25], 25 [50], 75 [25]
+available: none
+alloc d 25: fail
