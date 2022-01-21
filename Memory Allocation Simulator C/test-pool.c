@@ -6,7 +6,7 @@
 #include "pool.h"
 
 /*
- This is simple I/O test client for pool.h that
+ This is I/O test client for pool.h that
  uses a very specific input format.
 
  Failure to follow format might lead to undefined behaviour.
